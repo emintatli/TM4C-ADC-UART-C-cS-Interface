@@ -1,6 +1,6 @@
 # TM4C-ADC-UART-C-cS-Interface
 
-TM4C reading ADC via serial port and printing data from c# pc interface
+TM4C reading ADC via serial port and displaying data from c# pc interface
 
 C# PC interface: (you have to enter these values:date-time text ,  then click USB icon on right side program will start the timer inside the microcontroller 
 and you will see the ADC value on your computers screen in sync)
