@@ -1,0 +1,8 @@
+C:\Users\PC\csharp-projects\Odev\Odev\bin\Debug\Odev.exe.config
+C:\Users\PC\csharp-projects\Odev\Odev\bin\Debug\Odev.exe
+C:\Users\PC\csharp-projects\Odev\Odev\bin\Debug\Odev.pdb
+C:\Users\PC\csharp-projects\Odev\Odev\obj\Debug\Odev.csprojResolveAssemblyReference.cache
+C:\Users\PC\csharp-projects\Odev\Odev\obj\Debug\Odev.exe
+C:\Users\PC\csharp-projects\Odev\Odev\obj\Debug\Odev.pdb
+C:\Users\PC\csharp-projects\Odev\Odev\obj\Debug\Odev.MainForm.resources
+C:\Users\PC\csharp-projects\Odev\Odev\obj\Debug\Odev.csproj.GenerateResource.Cache
